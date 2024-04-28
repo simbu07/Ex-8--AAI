@@ -49,7 +49,7 @@ for line in text.splitlines():
 ```
 <H3> Output:</H3>
 
-![](1.png)
+![](https://github.com/Aadheeshwar-AIDS/Ex-8--AAI/raw/main/1.png)
 
 <H3> Result:</H3>
 
