@@ -1,8 +1,7 @@
- <H3>NAME: Silambarasan K</H3>
-<H3>REGISTER NO: 212221230101</H3>
-<H3>EX. NO.8</H3>
-<H3>DATE:25/04/2024</H3>
-<H1 ALIGN =CENTER>Implementation of Speech Recognition</H1>
+<H2 ALIGN =CENTER>Implementation of Speech Recognition</H2>
+<H4>NAME: Silambarasan K</H4>
+<H4>REGISTER NO: 212221230101</H4>
+<H4>DATE:25/04/2024</H4>
 <H3>Aim:</H3> 
  To implement the conversion of live speech to text.<BR>
 <h3>Algorithm:</h3>
